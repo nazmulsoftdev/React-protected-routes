@@ -1,0 +1,21 @@
+.nav-section {
+    width: 100%;
+    padding: 15px 0px;
+    background-color: black;
+}
+
+.nav-section button {
+    margin-left: 50px;
+    cursor: pointer;
+}
+
+.dashboard-item {
+    float: right;
+    text-decoration: none;
+    margin-right: 100px;
+    color: rgb(20, 231, 20);
+}
+
+.dashboard-item:hover {
+    color: aqua;
+}
